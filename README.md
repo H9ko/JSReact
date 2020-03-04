@@ -1,2 +1,0 @@
-# JSReact
-Created with CodeSandbox
